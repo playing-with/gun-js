@@ -1,7 +1,7 @@
 {
   "name": "gun-js",
   "version": "1.0.0",
-  "description": "Some fun with gun.js library",
+  "description": "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/playing-with/gun-js)",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
