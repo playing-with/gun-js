@@ -5,6 +5,8 @@ var path = require('path');
 
 var Gun = require('gun');
 require('gun/sea');
+var SEA = Gun.SEA;
+
 
 Gun.chain.count = function (num) {
   if (typeof num === 'number') {
