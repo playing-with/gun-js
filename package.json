@@ -1,0 +1,28 @@
+{
+  "name": "gun-js",
+  "version": "1.0.0",
+  "description": "Some fun with gun.js library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playing-with/gun-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playing-with/gun-js/issues"
+  },
+  "homepage": "https://github.com/playing-with/gun-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gun": "^0.2020.520"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
